@@ -20,7 +20,6 @@ class SingleLinkList(object):
                 lenth += 1
         return lenth
 
-
     def append(self, item):
         node = Node(item)
         if not self.isEmpty():
