@@ -11,7 +11,7 @@ def core(s, begin=0):
             next_begin = begin + 1
             core(s, next_begin)
             s[i], s[begin] = s[begin], s[i]
-     
+
 
 def permutation(s):
     """permutation 变换、变动、排列"""

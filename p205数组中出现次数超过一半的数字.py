@@ -14,7 +14,7 @@ def more_than_half_num(li):
                 num_count += 1
             else:
                 num_count -= 1
-    return num    
+    return num
 
 
 if __name__ == '__main__':
