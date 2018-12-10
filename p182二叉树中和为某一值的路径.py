@@ -14,6 +14,7 @@ def search_path(item, sum_num, path=[]):
         search_path(item.rchild, sum_num, path)
     # 当前节点为叶子节点的情况
     if item.lchild is None and item.rchild is None:
+        # 使用sum函数直接求解整型列表的和
         if sum(path) == sum_num:
             for i in path:
                 print(i, end=' ')
