@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="736967f3-038b-420c-a677-4b8a5c8eba35" name="Default Changelist" comment="" />
+    <list default="true" id="736967f3-038b-420c-a677-4b8a5c8eba35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p284反转字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p288队列的最大值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/面试题代码.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/面试题代码.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p253两个链表的第一个公共节点.py" beforeDir="false" afterPath="$PROJECT_DIR$/p253两个链表的第一个公共节点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p263在排序数组中查找数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/p263在排序数组中查找数字.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,81 +19,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/$p71.coverage" NAME="p71两个队列实现一个栈 Coverage Results" MODIFIED="1542854422843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="排序算法 Coverage Results" MODIFIED="1542854516479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SwordToOffer$p284.coverage" NAME="p284反转字符串 Coverage Results" MODIFIED="1545028217682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$_p12.coverage" NAME=" p12字符串转整数 Coverage Results" MODIFIED="1542357707353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SwordToOffer$p280s.coverage" NAME="p280和为s的数字 Coverage Results" MODIFIED="1545026589171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="排序算法 Coverage Results" MODIFIED="1542854516479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$p71.coverage" NAME="p71两个队列实现一个栈 Coverage Results" MODIFIED="1542854422843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$p393.coverage" NAME="p39面试题3数组中重复的数字 Coverage Results" MODIFIED="1542358553867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$p68.coverage" NAME="p68用两个栈实现队列 Coverage Results" MODIFIED="1542769345986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$p62.coverage" NAME="p62重建二叉树 Coverage Results" MODIFIED="1542462075238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$p393.coverage" NAME="p39面试题3数组中重复的数字 Coverage Results" MODIFIED="1542358553867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1080907340">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="89" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="89" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1215380604">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="26" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="26" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="157" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="157" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p288队列的最大值.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/p284反转字符串.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -101,20 +72,17 @@
         <option value="$PROJECT_DIR$/p55相关题目.py" />
         <option value="$PROJECT_DIR$/p77菲波拉契实际应用_青蛙跳.py" />
         <option value="$PROJECT_DIR$/p127表示数值的字符串.py" />
+        <option value="$PROJECT_DIR$/p280和为s的数字.py" />
+        <option value="$PROJECT_DIR$/p288队列的最大值.py" />
+        <option value="$PROJECT_DIR$/p284反转字符串.py" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="185" />
-    <option name="y" value="43" />
+    <option name="y" value="41" />
     <option name="width" value="1585" />
-    <option name="height" value="938" />
+    <option name="height" value="940" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -125,8 +93,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="面试题代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="面试题代码" type="462c0819:PsiDirectoryNode" />
+              <item name="SwordToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,6 +110,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\电子书阅读及笔记\剑指offer\SwordToOffer" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -154,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.排序算法">
+  <component name="RunManager" selected="Python.p284反转字符串">
     <configuration name="排序算法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="面试题代码" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p39面试题3数组中重复的数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p280和为s的数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="面试题代码" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,7 +163,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p39面试题3数组中重复的数字.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p280和为s的数字.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p62重建二叉树" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p284反转字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="面试题代码" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,7 +185,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p62重建二叉树.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p284反转字符串.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,19 +239,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.p39面试题3数组中重复的数字" />
-      <item itemvalue="Python.p62重建二叉树" />
       <item itemvalue="Python.p68用两个栈实现队列" />
       <item itemvalue="Python.p71两个队列实现一个栈" />
       <item itemvalue="Python.排序算法" />
+      <item itemvalue="Python.p280和为s的数字" />
+      <item itemvalue="Python.p284反转字符串" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p284反转字符串" />
+        <item itemvalue="Python.p280和为s的数字" />
         <item itemvalue="Python.排序算法" />
         <item itemvalue="Python.p71两个队列实现一个栈" />
         <item itemvalue="Python.p68用两个栈实现队列" />
-        <item itemvalue="Python.p62重建二叉树" />
-        <item itemvalue="Python.p39面试题3数组中重复的数字" />
       </list>
     </recent_temporary>
   </component>
@@ -292,26 +265,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542357413591</updated>
+      <workItem from="1545025358455" duration="232000" />
+      <workItem from="1545025669256" duration="3151000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3383000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="148" y="35" width="1268" height="750" extended-state="0" />
+    <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7880259" visible="true" weight="0.19504133" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7880259" visible="true" weight="0.16286863" />
       <window_info id="Structure" order="1" sideWeight="0.21197411" side_tool="true" weight="0.19586776" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29189944" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49967554" weight="0.44783714" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.29189944" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49967554" weight="0.44692737" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003245" side_tool="true" weight="0.39974293" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.29189944" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32904884" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32820514" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -323,9 +301,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -340,6 +315,11 @@
           <line>24</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/p280和为s的数字.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -350,13 +330,7 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ p12字符串转整数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ p12字符串转整数.py" />
     <entry file="file://$PROJECT_DIR$/p13求链表倒节点.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -474,6 +448,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p280和为s的数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="37" column="4" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p288队列的最大值.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p284反转字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>

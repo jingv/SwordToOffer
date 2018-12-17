@@ -3,7 +3,7 @@ from SingleLinkList import SingleLinkList
 
 def find_common_node1(singlelinklistA, singlelinklistB):
     """
-        思路一：两个单链中的元素依次分别放入两个栈中，然后依次弾栈找到第一个不相同的元素， 
+        思路一：两个单链中的元素依次分别放入两个栈中，然后依次弾栈找到第一个不相同的元素，
             最后一个相同的元素就是第一个公共的节点.
     """
     stack_A = []
@@ -49,7 +49,7 @@ def find_common_node2(singlelinklistA, singlelinklistB):
         numB = singlelinklistB.pop_head()
         # print(numA, '***********', numB)
         if numA == numB:
-            return numA    
+            return numA
 
 
 def main():
@@ -70,8 +70,6 @@ def main():
         singlelinklistB.append(i)
     # print(find_common_node1(singlelinklistA, singlelinklistB))
     print(find_common_node2(singlelinklistA, singlelinklistB))
-
-
 
 
 if __name__ == '__main__':
